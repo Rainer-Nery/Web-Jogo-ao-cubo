@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Novo Projeto",
+"productVersion": "0.1",
+"dataUrl": "Web Jogo-ao-cubo.data.unityweb",
+"wasmCodeUrl": "Web Jogo-ao-cubo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web Jogo-ao-cubo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
